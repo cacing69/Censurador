@@ -4,6 +4,13 @@
         "severity": "medium",
         "category": "animal insult",
         "notes": "commonly used in Indonesia",
+        "alternatives": [
+            "ajg",
+            "anjg",
+            "anjir",
+            "anying",
+            "a**ing"
+        ],
         "translations": {
             "en": [
                 "dog"
@@ -18,6 +25,7 @@
         "severity": "high",
         "category": "sexual",
         "notes": null,
+        "alternatives": [],
         "translations": {
             "en": [
                 "penis",
