@@ -1,0 +1,31 @@
+[
+    {
+        "word": "anjing",
+        "severity": "medium",
+        "category": "animal insult",
+        "notes": "commonly used in Indonesia",
+        "translations": {
+            "en": [
+                "dog"
+            ],
+            "es": [
+                "perro"
+            ]
+        }
+    },
+    {
+        "word": "kontol",
+        "severity": "high",
+        "category": "sexual",
+        "notes": null,
+        "translations": {
+            "en": [
+                "penis",
+                "dick"
+            ],
+            "es": [
+                "pene"
+            ]
+        }
+    }
+]
